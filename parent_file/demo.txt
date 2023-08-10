@@ -1,0 +1,20 @@
+﻿TOPIC: ADDING SLICERS
+CATEGORY: REMEMBERING
+1. What is the purpose of a Slicer in Power BI?
+a) To create visual elements
+b) To filter data in a report or dashboard
+c) To display a list of options
+d) To explore data across dimensions
+Answer: b.
+Explanation: A slicer is a visual element in Power BI used to filter data in a report or dashboard.
+Tag Names: ["POOL_1", "TOPIC_FUNDAMENTALS_MCQ", "SUB_TOPIC_POWERBI_MCQ", "SOURCE_IB", "DIFFICULTY_EASY"]
+
+
+2. How does a Slicer narrow down the data displayed in visualizations?
+a) By creating a new filter
+b) By selecting multiple values from a list of options
+c) By displaying different perspectives on data
+d) By providing quick insights
+Answer: b.
+Explanation: Users can narrow down the data displayed by selecting one or more values from a list of options provided by the Slicer.
+Tag Names: ["POOL_1", "TOPIC_FUNDAMENTALS_MCQ", "SUB_TOPIC_POWERBI_MCQ", "SOURCE_IB", "DIFFICULTY_EASY"]

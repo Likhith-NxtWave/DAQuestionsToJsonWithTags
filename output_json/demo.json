@@ -1,0 +1,88 @@
+[
+    {
+        "question_key": "session01_t01__01",
+        "question_id": "c3b44943-8bd0-4b30-b93f-0938d0ee2170",
+        "explanation_for_answer": {
+            "content": "A slicer is a visual element in Power BI used to filter data in a report or dashboard.",
+            "content_type": "TEXT"
+        },
+        "skills": [],
+        "toughness": "EASY",
+        "question_type": "MULTIPLE_CHOICE",
+        "question": {
+            "content": "1. What is the purpose of a Slicer in Power BI?",
+            "content_type": "MARKDOWN",
+            "tag_names": "[\"POOL_1\", \"TOPIC_FUNDAMENTALS_MCQ\", \"SUB_TOPIC_POWERBI_MCQ\", \"SOURCE_IB\", \"DIFFICULTY_EASY\"",
+            "multimedia": []
+        },
+        "options": [
+            {
+                "content": "To create visual elements",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            },
+            {
+                "content": "To filter data in a report or dashboard",
+                "content_type": "TEXT",
+                "is_correct": true,
+                "multimedia": []
+            },
+            {
+                "content": "To display a list of options",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            },
+            {
+                "content": "To explore data across dimensions",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            }
+        ]
+    },
+    {
+        "question_key": "session01_t01__02",
+        "question_id": "b89676ad-6239-456b-9b43-7487ee372c9f",
+        "explanation_for_answer": {
+            "content": "Users can narrow down the data displayed by selecting one or more values from a list of options provided by the Slicer.",
+            "content_type": "TEXT"
+        },
+        "skills": [],
+        "toughness": "EASY",
+        "question_type": "MULTIPLE_CHOICE",
+        "question": {
+            "content": "2. How does a Slicer narrow down the data displayed in visualizations?",
+            "content_type": "MARKDOWN",
+            "tag_names": "[\"POOL_1\", \"TOPIC_FUNDAMENTALS_MCQ\", \"SUB_TOPIC_POWERBI_MCQ\", \"SOURCE_IB\", \"DIFFICULTY_EASY\"",
+            "multimedia": []
+        },
+        "options": [
+            {
+                "content": "By creating a new filter",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            },
+            {
+                "content": "By selecting multiple values from a list of options",
+                "content_type": "TEXT",
+                "is_correct": true,
+                "multimedia": []
+            },
+            {
+                "content": "By displaying different perspectives on data",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            },
+            {
+                "content": "By providing quick insights",
+                "content_type": "TEXT",
+                "is_correct": false,
+                "multimedia": []
+            }
+        ]
+    }
+]
