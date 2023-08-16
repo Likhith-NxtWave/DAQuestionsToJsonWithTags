@@ -33,8 +33,7 @@ def generate_question_json(question_text, session_number, topic_number, question
 
     # Find the tag_name
     tags_start = question_text.find("Tag Names: ", explanation_end)
-    tags_end = question_text.find("\n", tags_start)
-    tag_names = question_text[tags_start + 11: tags_end].strip()
+    tag_names = question_text[tags_start + 11: ].strip()
 
     # Construct question JSON object
     question_json = {
@@ -50,7 +49,7 @@ def generate_question_json(question_text, session_number, topic_number, question
         "question": {
             "content": question_text[:options_start].strip(),
             "content_type": "MARKDOWN",
-            "tag_names": tag_names,
+            "tag_names": json.loads(tag_names),
             "multimedia": []
         },
         "options": []
